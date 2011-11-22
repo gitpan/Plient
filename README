@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Plient,
-version 0.01:
+version 0.02:
 
   the uniform way to use curl, wget, LWP, HTTP::Lite, etc.
 

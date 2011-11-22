@@ -5,6 +5,7 @@ META.yml
 Makefile.PL
 README
 README.pod
+TODO
 bin/plient
 bin/plient-make-bundle
 dist.ini

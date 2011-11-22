@@ -14,4 +14,4 @@ meta-spec:
 name: Plient
 resources:
   repository: http://github.com/bestpractical/plient.git
-version: 0.01
+version: 0.02
