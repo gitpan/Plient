@@ -3,7 +3,7 @@ package Plient;
 use warnings;
 use strict;
 use Carp;
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 use File::Spec::Functions;
 use base 'Exporter';
 our @EXPORT = 'plient';
@@ -171,7 +171,7 @@ sub _add_handlers {
             $all_handlers{$handler} = ();
         }
         else {
-            warn "$handler doesn't look like a Plient handler";
+            warn "$handler is not a valid Plient handler";
         }
     }
 
